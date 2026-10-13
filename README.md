@@ -34,6 +34,10 @@ Predecir una frase:
 python -m sentiment_es.predict "El servicio fue rápido y excelente"
 ```
 
+## Reproducibilidad
+
+El entrenamiento usa la semilla `42` por defecto y validación cruzada estratificada de tres particiones. Cambia la semilla con `--seed` para comparar experimentos de forma controlada.
+
 ## Limitaciones
 
 El dataset incluido es pequeño y balanceado para facilitar la reproducibilidad. Para uso real se necesita un corpus mayor, revisión de sesgos, validación temporal y evaluación por dominio.
