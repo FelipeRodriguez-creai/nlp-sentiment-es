@@ -34,6 +34,12 @@ Predecir una frase:
 python -m sentiment_es.predict "El servicio fue rápido y excelente"
 ```
 
+Para integrarlo con otras herramientas:
+
+```bash
+python -m sentiment_es.predict --json "La atención fue excelente"
+```
+
 ## Reproducibilidad
 
 El entrenamiento usa la semilla `42` por defecto y validación cruzada estratificada de tres particiones. Cambia la semilla con `--seed` para comparar experimentos de forma controlada.
