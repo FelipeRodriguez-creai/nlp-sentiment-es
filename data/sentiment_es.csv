@@ -1,0 +1,37 @@
+text,label
+"El producto llegó rápido y funciona perfectamente",positive
+"La atención fue amable y resolvieron mi problema",positive
+"Estoy muy satisfecho con la compra",positive
+"La aplicación es clara, rápida y fácil de usar",positive
+"El resultado superó mis expectativas",positive
+"La experiencia fue excelente de principio a fin",positive
+"El equipo cumplió todo lo prometido",positive
+"La interfaz se entiende sin instrucciones",positive
+"Me ayudaron con rapidez y cortesía",positive
+"La calidad es muy buena por el precio",positive
+"Volvería a contratar este servicio",positive
+"La solución fue sencilla y efectiva",positive
+"El informe llegó completo y a tiempo",positive
+"La plataforma funciona de manera estable",positive
+"La respuesta fue clara y útil",positive
+"Estoy contento con el resultado final",positive
+"El proceso fue cómodo y transparente",positive
+"La herramienta ahorra mucho trabajo",positive
+"El pedido llegó tarde y en mal estado",negative
+"La aplicación falla cada vez que intento entrar",negative
+"El soporte no respondió durante varios días",negative
+"Estoy decepcionado con la calidad del servicio",negative
+"La compra fue complicada y el producto no sirve",negative
+"La experiencia resultó frustrante y costosa",negative
+"El equipo ignoró mis mensajes",negative
+"La interfaz es confusa y lenta",negative
+"Nadie explicó cómo resolver el problema",negative
+"La calidad no corresponde al precio",negative
+"No volvería a usar este servicio",negative
+"La solución complicó todavía más el proceso",negative
+"El informe llegó incompleto",negative
+"La plataforma se cae constantemente",negative
+"La respuesta no solucionó nada",negative
+"Estoy insatisfecho con el resultado",negative
+"El proceso fue opaco y agotador",negative
+"La herramienta hace perder tiempo",negative
